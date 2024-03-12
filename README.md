@@ -12,8 +12,7 @@ The example for robotics application.
 
 The example for robotics application.
 
-## External link for component
-### Task
+## External repository link
 
 - [carrot-vision-rs](https://github.com/scepter914/carrot-vision-rs)
 
@@ -22,10 +21,6 @@ The component for computer vision task.
 - [carrot-robotics-rs](https://github.com/scepter914/carrot-robotics-rs)
 
 The component for robotics task.
-
-### Algorithm
-
-### Library
 
 - [carrot-ineterface-rs](https://github.com/scepter914/carrot-interface-rs)
 
@@ -37,5 +32,5 @@ The util library.
 
 - [simple-image-interface-rs](https://github.com/scepter914/simple-image-interface-rs)
 
-The data input interface for images.
+The image data input interface for image application.
 
